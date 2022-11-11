@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KeLi.FileRenamer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WordRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[a-zA-Z]{1,10}</Value>
+    </Setting>
+    <Setting Name="FilterType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.*</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
